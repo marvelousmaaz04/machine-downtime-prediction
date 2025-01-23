@@ -1,6 +1,7 @@
-# Machine Downtime Prediction API
-
-This Flask API predicts machine downtime in a manufacturing environment.
+# Machine Downtime Prediction
+Synthetic dataset has been created and saved in the file `machine_data.csv`.
+Appropriate machine learning models have be trained and evaluated on the dataset.
+Flask API has been created for user/front-end interaction with the model.
 
 ## Setup
 
